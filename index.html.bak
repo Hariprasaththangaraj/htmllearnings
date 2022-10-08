@@ -1,0 +1,8 @@
+<title> E-Mail Service Application </title>
+
+<head> <h1> <center>Enter The Email Detials To Send </center></h1> </head><br>
+<form>
+<head> <h3> <center-left>Enter The Email ID :  <input type="text" placeholder="Enter Your Email ID Here" style="width:300px"/> </center-left></h3> </head>
+<head> <h3> <center-left>Enter The Message : <input type="text" placeholder="Enter Your Message Here" style="width:1300px"/></center-left></h3> </head>
+<head> <h3> <button> <center>  Submit  </center></button></h3> </head>
+</form>
